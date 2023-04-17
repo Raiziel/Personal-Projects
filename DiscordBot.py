@@ -9,7 +9,7 @@ bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 
 async def on_ready():
     channel = bot.get_channel(CHANNEL_ID)
-    await channel.send("ValoDEX is online!")
+    await channel.send("DiscordBot is online!")
     
 @bot.command()
 async def hello(ctx):
