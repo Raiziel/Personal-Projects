@@ -10,7 +10,7 @@
     "from riotwatcher import ValWatcher, ApiError, RiotWatcher, LolWatcher\n",
     "import pandas as pd\n",
     "# global variables\n",
-    "api_key = 'RGAPI-37049464-7e67-4cb6-99cc-3fd9aae9564e' # API Key Accessed from Riot Dev Portal \n",
+    "api_key = 'RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' # API Key Accessed from Riot Dev Portal \n",
     "ValorantWatcher = ValWatcher(api_key)\n",
     "RiotWatcher = RiotWatcher(api_key)\n",
     "LeagueWatcher = LolWatcher(api_key)"
