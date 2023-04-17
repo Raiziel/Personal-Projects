@@ -5,12 +5,15 @@ BOT_TOKEN = #Insert Discord BOT Private Token String Here
 CHANNEL_ID = #Insert Discord Channel ID String for bot access
             
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
-@bot.event
 
+
+@bot.event
 async def on_ready():
     channel = bot.get_channel(CHANNEL_ID)
     await channel.send("DiscordBot is online!")
-    
+            
+#@bot.command() decorator creates new commands / functions 
+            
 @bot.command()
 async def hello(ctx):
     await ctx.send("Hello!")
