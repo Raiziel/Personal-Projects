@@ -1,2 +1,2 @@
 # Personal Projects
-The purpose of this directory is to showcase my personal projects that I use for practice.
+Welcome to my personal project directory! Generally, this is where I will upload any ideas that I may have or show some of the topics that I'm interested in exploring.
