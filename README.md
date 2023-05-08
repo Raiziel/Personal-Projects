@@ -3,7 +3,7 @@
 NicholasValantino@gmail.com
 
 ## Description
-Generally, this is where I'll upload any of my own ideas that I may be working on or showcasing and exploring code that others have previously written so that I'm able to become more familiar with various programming techniques/problem solving.
+Generally, this is where I'll upload any of my own ideas that I may be working on or showcasing and exploring code that others have previously written so that I'm able to become more familiar with various programming techniques/problem solving. Sometimes, I may upload a project I'm working on and decide to revisit it for another time but I usually try to submit things that have substance and structure. 
 
 ## Purpose
 || Goals|
