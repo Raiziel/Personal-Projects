@@ -11,6 +11,6 @@ Generally, this is where I'll upload any of my own ideas that I may be working o
 |     |Expand knowledge and skills of python problem solving|
 |     |Explore and try to improve upon other's ideas|
 |     |Familiarize myself with modern coding techniques|
-|    |Showcase some of my interests in different fields of programming|
+|    |Showcase some of my interests in different aspects of python|
 |    |Create new solutions and approaches|
 |     |Have fun :)|
